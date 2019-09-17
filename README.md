@@ -1,3 +1,5 @@
+来源 https://github.com/iMeiji/shadowsocks_install/tree/master
+
 一键安装 shadowsocks server
 ---
 
